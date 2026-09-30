@@ -71,7 +71,7 @@ ShadowFox_DataAnalytics_Internship/
 │
 ├── level_1/
 │   ├── dataset/
-│   │   └── Sample - Superstore.xlsx
+│   │   └── Sample - Superstores.xlsx
 │   ├── Beginner Analysis.xlsx
 │   └── README.md
 │
