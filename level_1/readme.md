@@ -105,10 +105,10 @@ Business Recommendations
 
 Project Structure
 
-Level_1_Beginner/
+Level_1/
 │
 ├── dataset/
-│   └── Sample - Superstore.xlsx
+│   └── Sample - Superstores.xlsx
 │
 ├── notebook/
 │
