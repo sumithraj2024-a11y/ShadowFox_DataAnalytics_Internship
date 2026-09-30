@@ -25,7 +25,7 @@ Key areas covered:
 - Excel dashboard creation
 - Business insights and recommendations
 
-**Project Folder:** `level_1_beginner/`
+**Project Folder:** `level_1/`
 
 ### Level 2 – Intermediate
 
@@ -46,7 +46,7 @@ Key areas covered:
 - Data visualization
 - Business insights and recommendations
 
-**Project Folder:** `level_2_intermediate/`
+**Project Folder:** `level_2/`
 
 ## Skills Demonstrated
 
@@ -67,15 +67,15 @@ Key areas covered:
 ## Repository Structure
 ```text
 
-ShadowFox_Data_Analytics/
+ShadowFox_DataAnalytics_Internship/
 │
-├── level_1_beginner/
+├── level_1/
 │   ├── dataset/
 │   │   └── Sample - Superstore.xlsx
 │   ├── Beginner Analysis.xlsx
 │   └── README.md
 │
-├── level_2_intermediate/
+├── level_2/
 │   ├── dataset/
 │   │   └── README.md
 │   ├── notebook/
